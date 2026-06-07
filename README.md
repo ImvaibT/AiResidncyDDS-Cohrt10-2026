@@ -1,2 +1,2 @@
-# Codecademy-vaib
-Vaib code
+**My - AIResidency_dds dubai**
+All MCs codes snippts.....
